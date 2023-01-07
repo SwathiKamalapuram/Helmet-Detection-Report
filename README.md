@@ -6,7 +6,8 @@ The problem of people not using helmet while driving has caused the increase in 
 Data:
 
 The data was custom made by collecting the images from internet using the online repositories. The data had the diversity and variation to detect any possible kind of scenario of person wearing helment. The data consisted of two classes of person riding the bike and bycycles with helmet and without helmet. The data can be accessed from this link:
-https://drive.google.com/file/d/1e47zcTmVOftcJ1PgKI8I1K2x3uNAn7hW/view?usp=sharing
+https://drive.google.com/file/d/1hxUF7z20tghwRWZiHh7j7qm_uti-030y/view?usp=share_link
+
 
 Method:
 
