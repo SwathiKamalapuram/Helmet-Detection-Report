@@ -54,10 +54,21 @@ Conclusion:
 
 The problem was solved and the 50 epochs were compiled to finish the training. The trainable parameters were 7015519 parameters, 0 gradients, 15.8 GFLOPs. There were 157 layers in the model and model summary can be seen as:
 Model summary: 157 layers, 7015519 parameters, 0 gradients, 15.8 GFLOPs
+
+
                  Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 25/25 [00:11
+                 
+                 
                    all        198        420      0.637      0.617      0.676      0.397
+                   
+                   
                 helmet        198        207      0.563      0.773      0.712      0.452
+                
+                
              no-helmet        198        213      0.711      0.462       0.64      0.343
              
-             For any queries please contact:
+             
+             
+ For any queries please contact:
+             
              Swathireddy.sr58@gmail.com
