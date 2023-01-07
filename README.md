@@ -71,4 +71,4 @@ Model summary: 157 layers, 7015519 parameters, 0 gradients, 15.8 GFLOPs
              
  For any queries please contact:
              
-             Swathireddy.sr58@gmail.com , faisal.mizzan@outlook.com
+             Swathi.kamalapuram@th-bingen.de , faisal.mizzan@outlook.com
