@@ -72,4 +72,4 @@ Model summary: 157 layers, 7015519 parameters, 0 gradients, 15.8 GFLOPs
              
  For any queries please contact:
              
-             Swathi.kamalapuram@th-bingen.de , faisal.imam@th-bingen.de
+             Swathi.kamalapuram@th-bingen.de , faisal.imam@th-bingen.de , mathew.siby@th-bingen.de
