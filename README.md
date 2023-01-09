@@ -1,3 +1,19 @@
+Introduction to Object Detection:
+
+Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos. Object detection algorithms typically leverage machine learning or deep learning to produce meaningful results. The goal of object detection is to detect and classify objects within an image, and to locate the position of the objects within the image.
+
+Object detection is important for a variety of reasons. For example, detecting the bikers who are wearing helmets or not wearing.
+Some potential benefits of helmet detection include:
+
+1.Improved safety: By detecting whether or not a person is wearing a helmet, safety systems can alert the user or take corrective action if necessary. This could be particularly useful in industries with a high risk of head injuries, such as construction or cycling.
+
+2.Enhanced compliance: In industries or situations where helmet use is required by law or regulation, helmet detection can be used to ensure compliance.
+
+3.Increased efficiency: In some cases, helmet detection can be used to automate tasks or processes that require the presence or absence of a helmet. For example, a helmet detection system could be used to control access to a construction site or to trigger the start of a manufacturing process.
+
+Object Detection Using Deep Learning:
+
+You can use a variety of techniques to perform object detection. Popular deep learning–based approaches using convolutional neural networks (CNNs), such as R-CNN and YOLO, automatically learn to detect objects within images.
 
 Problem:
 
@@ -80,7 +96,32 @@ Model summary: 157 layers, 7015519 parameters, 0 gradients, 15.8 GFLOPs
                 
                 
              no-helmet        198        213      0.711      0.462       0.64      0.343
-             
+ 
+References and Tutorials:
+
+https://www.mathworks.com/discovery/object-detection.html
+
+https://www.geeksforgeeks.org/add-a-salt-and-pepper-noise-to-an-image-with-python/
+
+https://www.kaggle.com/code/eneszvo/yolov5-helmet-detection-train-and-inference
+
+https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/
+
+https://github.com/WongKinYiu/yolov7
+
+https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d
+
+https://www.forecr.io/blogs/ai-algorithms/how-to-train-a-yolov5-object-detection-model-in-google-colab
+
+https://blog.paperspace.com/train-yolov5-custom-data/
+
+https://colab.research.google.com/github/wandb/examples/blob/master/colabs/yolo/Train_YOLOv5_model_on_a_Custom_Dataset_with_Weights_%26_Biases.ipynb#scrollTo=6Rv2ysKDRDM8
+
+https://docs.ultralytics.com/
+
+https://www.youtube.com/watch?v=5h5UtLau3Vc
+
+https://www.youtube.com/watch?v=tgacIcMvqLQ&list=PLcP8bHQl_w-HkHuUBsSUnMr0LXypzov_g
              
              
  For any queries please contact:
