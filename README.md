@@ -2,6 +2,8 @@ Introduction to Object Detection:
 
 Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos. Object detection algorithms typically leverage machine learning or deep learning to produce meaningful results. The goal of object detection is to detect and classify objects within an image, and to locate the position of the objects within the image.
 
+
+
 Object detection is important for a variety of reasons. For example, detecting the bikers who are wearing helmets or not wearing.
 Some potential benefits of helmet detection include:
 
@@ -11,9 +13,16 @@ Some potential benefits of helmet detection include:
 
 3.Increased efficiency: In some cases, helmet detection can be used to automate tasks or processes that require the presence or absence of a helmet. For example, a helmet detection system could be used to control access to a construction site or to trigger the start of a manufacturing process.
 
+
+
 Object Detection Using Deep Learning:
 
-You can use a variety of techniques to perform object detection. Popular deep learning–based approaches using convolutional neural networks (CNNs), such as R-CNN and YOLO, automatically learn to detect objects within images.
+You can use a variety of techniques to perform object detection. Popular deep learning–based approaches using convolutional neural networks (CNNs), such as R-CNN and YOLO, automatically learn to detect objects within images. One of the most famous families of Deep Convolutional Neural Networks (DNN) for object detection is the YOLO (You Only Look Once).
+
+Object detection pipeline:
+
+![image](https://user-images.githubusercontent.com/116068857/211398429-5834ac83-b39a-4647-8686-ea73609644e2.png)
+                         
 
 Problem:
 
@@ -21,13 +30,13 @@ The problem of people not using helmet while driving has caused the increase in 
 
 Data:
 
-The data was custom made by collecting the images from internet using the online repositories. The data had the diversity and variation to detect any possible kind of scenario of person wearing helment. The data consisted of two classes of person riding the bike and bycycles with helmet and without helmet. The data can be accessed from this link:
+The data was custom made by collecting the images from internet using the online repositories. The data had the diversity and variation to detect any possible kind of scenario of person wearing helment. The data consisted of two classes of person riding the bike and bycycles with helmet and without helmet. The custom object detection dataset (image & bounding box text file) can be accessed from this link:
 https://drive.google.com/file/d/1hxUF7z20tghwRWZiHh7j7qm_uti-030y/view?usp=share_link
 
 
 Method:
 
-Yolov5 is the most widely used machine learning algorithm for the detection and prediction applications. This project consists of the custom dataset and the annotations were carried out using labalimg toolbox. This model is specifically designed in a manner to detect the bounding boxes for the training and the training of the bounding boxes resulted in prediction of the helmets/no helmets in the project. The bounding boxes of the images were created using the Labelimg toolbox. The dataset used for the project consists of the custom image dataset.
+Yolov is the most widely used machine learning algorithm for the detection and prediction applications. This project consists of the custom dataset and the annotations were carried out using labalimg toolbox. This model is specifically designed in a manner to detect the bounding boxes for the training and the training of the bounding boxes resulted in prediction of the helmets/no helmets in the project. The bounding boxes of the images were created using the Labelimg toolbox. The dataset used for the project consists of the custom image dataset.
 
 Architecture of the implemented technique can be seen as:
 
@@ -122,6 +131,8 @@ https://docs.ultralytics.com/
 https://www.youtube.com/watch?v=5h5UtLau3Vc
 
 https://www.youtube.com/watch?v=tgacIcMvqLQ&list=PLcP8bHQl_w-HkHuUBsSUnMr0LXypzov_g
+
+https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html#:~:text=Machine%20Learning%20Engineer-,Object%20detection%20is%20the%20task%20of%20detecting%20where%20in%20an,security%20cameras%2C%20and%20autonomous%20vehicles
              
              
  For any queries please contact:
