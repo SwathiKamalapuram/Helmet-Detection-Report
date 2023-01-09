@@ -25,6 +25,9 @@ https://user-images.githubusercontent.com/116068857/210938597-becd7e19-095d-47dd
 
 The results of the given system for an image can be seen as below:
 ![1](https://user-images.githubusercontent.com/116068857/211234266-5a7878ed-0014-4c24-ac46-810b662386f1.jpg)
+The results of the given system for an image when noise(salt and pepper) augmentation used can be seen as below:
+![salt-and-pepper](https://user-images.githubusercontent.com/116068857/211239414-6728bedc-4ab8-402e-bd04-df765fbf6f95.jpg)
+
 
 
 The results of the given system for an image with flip augmentation can be seen as below:
