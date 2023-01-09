@@ -19,9 +19,19 @@ Architecture of the implemented technique can be seen as:
 
 Results:
 
-The results of the given system can be seen as below:
+The results of the given system for a video can be seen as below:
 
 https://user-images.githubusercontent.com/116068857/210938597-becd7e19-095d-47dd-a953-18da1c1bc8e9.mp4
+
+The results of the given system for an image can be seen as below:
+![1](https://user-images.githubusercontent.com/116068857/211234266-5a7878ed-0014-4c24-ac46-810b662386f1.jpg)
+
+
+The results of the given system for an image with flip augmentation can be seen as below:
+![c158](https://user-images.githubusercontent.com/116068857/211235110-eb523b50-2ca1-45cb-af01-fc8144fda065.jpg)
+![c159](https://user-images.githubusercontent.com/116068857/211235144-2e1edc48-ab67-48a8-8c46-d244b8d512fd.jpg)
+
+
 
 The confusion matrix of the algorithm can be seen as:
 ![confusion_matrix](https://user-images.githubusercontent.com/116068857/211157903-1e650141-adb5-4afb-a4ed-e9acf8b0dfa0.png)
