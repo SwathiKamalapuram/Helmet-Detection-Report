@@ -36,7 +36,7 @@ https://drive.google.com/file/d/1hxUF7z20tghwRWZiHh7j7qm_uti-030y/view?usp=share
 
 Method:
 
-Yolov is the most widely used machine learning algorithm for the detection and prediction applications. This project consists of the custom dataset and the annotations were carried out using labalimg toolbox. This model is specifically designed in a manner to detect the bounding boxes for the training and the training of the bounding boxes resulted in prediction of the helmets/no helmets in the project. The bounding boxes of the images were created using the Labelimg toolbox. The dataset used for the project consists of the custom image dataset.
+Yolo is the most widely used machine learning algorithm for the detection and prediction applications. This project consists of the custom dataset and the annotations were carried out using labalimg toolbox. This model is specifically designed in a manner to detect the bounding boxes for the training and the training of the bounding boxes resulted in prediction of the helmets/no helmets in the project. The bounding boxes of the images were created using the Labelimg toolbox. The dataset used for the project consists of the custom image dataset.
 
 Architecture of the implemented technique can be seen as:
 
@@ -107,6 +107,8 @@ Model summary: 157 layers, 7015519 parameters, 0 gradients, 15.8 GFLOPs
              no-helmet        198        213      0.711      0.462       0.64      0.343
  
 References and Tutorials:
+
+https://www.youtube.com/watch?v=VsZvT69Ssbs&t=159s
 
 https://www.mathworks.com/discovery/object-detection.html
 
